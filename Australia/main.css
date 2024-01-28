@@ -1,0 +1,17 @@
+*{
+    font-family: 'Noto Sans', sans-serif;
+    text-align: center;
+}
+
+body{
+    background-color: beige;
+}
+
+#ausp1{
+    border: 1ch;
+    border-color: black;
+    border-style: dotted;
+    width: fit-content;
+    margin-left: 200px;
+    margin-right: 200px;
+}

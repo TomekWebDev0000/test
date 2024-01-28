@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+    text-align: center;
+}
+
+*{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+#barcp1{
+    border: 1ch;
+    border-color: black;
+    border-style: dotted;
+    width: fit-content;
+    margin-left: 200px;
+    margin-right: 200px;
+}
